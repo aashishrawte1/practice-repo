@@ -1,0 +1,19 @@
+.left {
+    background-color: rgb(90, 153, 166);
+}
+
+.right {
+    background-color: rgb(227, 104, 104);
+}
+
+.split {
+    width: 50%;
+    height: 100%;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+
